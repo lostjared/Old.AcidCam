@@ -1,0 +1,13 @@
+/* 
+  program_str.strings
+  AcidCam
+
+  Created by Jared Bruni on 9/22/12.
+
+*/
+/* about the effects */
+"AboutEffects" = "Cada efecto es diferente sin embargo algunos de ellos es relacionado. Seleccione simplemente uno de la lista, presionan el expediente/la foto para tomar las imágenes/vídeo. El efecto de encargo permite que usted utilice efectos";
+
+/* No comment provided by engineer. */
+"AboutInfo" = "When a Effect uses a image, it will open up the Select Image dialog. Press the + button to select a image, once it is selected it will added to the drop down list (combo box). When you want to use the image, select in the combo box and press Make Current.  ";
+

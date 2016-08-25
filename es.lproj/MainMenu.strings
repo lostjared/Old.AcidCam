@@ -1,0 +1,315 @@
+
+/* Class = "NSMenu"; title = "AMainMenu"; ObjectID = "29"; */
+"29.title" = "AMainMenu";
+
+/* Class = "NSMenuItem"; title = "AcidCam"; ObjectID = "56"; */
+"56.title" = "Leva ácida";
+
+/* Class = "NSMenu"; title = "AcidCam"; ObjectID = "57"; */
+"57.title" = "Leva ácida";
+
+/* Class = "NSMenuItem"; title = "About AcidCam"; ObjectID = "58"; */
+"58.title" = "Sobre la leva ácida";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "129"; */
+"129.title" = "Preferencias";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "130"; */
+"130.title" = "Services";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; */
+"131.title" = "Services";
+
+/* Class = "NSMenuItem"; title = "Hide AcidCam"; ObjectID = "134"; */
+"134.title" = "Leva del ácido de la piel";
+
+/* Class = "NSMenuItem"; title = "Quit AcidCam"; ObjectID = "136"; */
+"136.title" = "Salga la leva ácida";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; */
+"145.title" = "Piel otras";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; */
+"150.title" = "Muestre todos";
+
+/* Class = "NSWindow"; title = "Transformed View"; ObjectID = "544"; */
+"544.title" = "Visión transformada";
+
+/* Class = "NSButtonCell"; title = "Snapshot"; ObjectID = "553"; */
+"553.title" = "Foto";
+
+/* Class = "NSTextFieldCell"; title = "Output Path:"; ObjectID = "555"; */
+"555.title" = "Camino de la salida:";
+
+/* Class = "NSTextFieldCell"; title = "0"; ObjectID = "560"; */
+"560.title" = "0";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "564"; */
+"564.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Self AlphaBlend"; ObjectID = "565"; */
+"565.title" = "Mezcla alfa del uno mismo";
+
+/* Class = "NSMenuItem"; title = "TriBlend"; ObjectID = "566"; */
+"566.title" = "Tri mezcla";
+
+/* Class = "NSMenuItem"; title = "Intense Blend"; ObjectID = "567"; */
+"567.title" = "Mezcla intensa";
+
+/* Class = "NSTextFieldCell"; title = "Current Effect"; ObjectID = "569"; */
+"569.title" = "Efecto actual";
+
+/* Class = "NSMenuItem"; title = "Blend #5"; ObjectID = "574"; */
+"574.title" = "Efecto de Currect";
+
+/* Class = "NSWindow"; title = "Select Image"; ObjectID = "576"; */
+"576.title" = "Seleccione la imagen";
+
+/* Class = "NSMenuItem"; title = "Blend with Image"; ObjectID = "580"; */
+"580.title" = "Mezcla con imagene";
+
+/* Class = "NSTextFieldCell"; title = "Current Images"; ObjectID = "585"; */
+"585.title" = "Imágenes actuales";
+
+/* Class = "NSButtonCell"; title = "+"; ObjectID = "589"; */
+"589.title" = "+";
+
+/* Class = "NSButtonCell"; title = "-"; ObjectID = "591"; */
+"591.title" = "-";
+
+/* Class = "NSButtonCell"; title = "Ok"; ObjectID = "593"; */
+"593.title" = "Ok";
+
+/* Class = "NSButtonCell"; title = "Make Current"; ObjectID = "603"; */
+"603.title" = "Haga la corriente";
+
+/* Class = "NSMenuItem"; title = "Red/Blue TriBlend with Image"; ObjectID = "607"; */
+"607.title" = "Triblend azul rojo con imagen";
+
+/* Class = "NSWindow"; title = "Preferences Window"; ObjectID = "655"; */
+"655.title" = "Preferencias Window";
+
+/* Class = "NSButtonCell"; title = "Enable Second Pass"; ObjectID = "658"; */
+"658.title" = "Permita en segundo lugar el paso";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "661"; */
+"661.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "25%"; ObjectID = "662"; */
+"662.title" = "25%";
+
+/* Class = "NSMenuItem"; title = "50%"; ObjectID = "663"; */
+"663.title" = "50%";
+
+/* Class = "NSMenuItem"; title = "75%"; ObjectID = "664"; */
+"664.title" = "75%";
+
+/* Class = "NSButtonCell"; title = "Apply"; ObjectID = "666"; */
+"666.title" = "Apply";
+
+/* Class = "NSTextFieldCell"; title = "File Save Name Prefix:"; ObjectID = "673"; */
+"673.title" = "Prefijo del nombre de la salvaguardia del fichero:";
+
+/* Class = "NSTextFieldCell"; title = "ac_screen"; ObjectID = "675"; */
+"675.title" = "ac_screen";
+
+/* Class = "NSTextFieldCell"; title = "Translation Speed: "; ObjectID = "678"; */
+"678.title" = "Velocidad de la traducción: ";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "683"; */
+"683.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Very Slow"; ObjectID = "684"; */
+"684.title" = "Muy lento";
+
+/* Class = "NSMenuItem"; title = "Slow"; ObjectID = "685"; */
+"685.title" = "lento";
+
+/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "686"; */
+"686.title" = "Normal";
+
+/* Class = "NSMenuItem"; title = "Fast"; ObjectID = "687"; */
+"687.title" = "Fast";
+
+/* Class = "NSMenuItem"; title = "Very Fast"; ObjectID = "688"; */
+"688.title" = "Very Fast";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "690"; */
+"690.title" = "File";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "691"; */
+"691.title" = "File";
+
+/* Class = "NSMenuItem"; title = "Save"; ObjectID = "697"; */
+"697.title" = "Save";
+
+/* Class = "NSMenuItem"; title = "Select Image "; ObjectID = "715"; */
+"715.title" = "Seleccione la imagen ";
+
+/* Class = "NSMenuItem"; title = "TriBlend Paradox"; ObjectID = "723"; */
+"723.title" = "Paradoja de Triblend";
+
+/* Class = "NSMenuItem"; title = "TriBlend Double"; ObjectID = "725"; */
+"725.title" = "Doble de Triblend";
+
+/* Class = "NSMenuItem"; title = "TriBlend MD"; ObjectID = "727"; */
+"727.title" = "MD de Triblend";
+
+/* Class = "NSMenuItem"; title = "Rand()%TriBlend"; ObjectID = "730"; */
+"730.title" = "Rand()%TriBlend";
+
+/* Class = "NSMenuItem"; title = "Two Blend"; ObjectID = "732"; */
+"732.title" = "Two Blend";
+
+/* Class = "NSMenuItem"; title = "TriBlend 2"; ObjectID = "762"; */
+"762.title" = "TriBlend 2";
+
+/* Class = "NSMenuItem"; title = "Tryp"; ObjectID = "764"; */
+"764.title" = "Tryp";
+
+/* Class = "NSButtonCell"; title = "Record"; ObjectID = "767"; */
+"767.title" = "Expediente";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "769"; */
+"769.title" = "Window";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "770"; */
+"770.title" = "Window";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "771"; */
+"771.title" = "Minimize";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "772"; */
+"772.title" = "Zoom";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "774"; */
+"774.title" = "Bring All to Front";
+
+/* Class = "NSMenuItem"; title = "Double Blend"; ObjectID = "783"; */
+"783.title" = "Double Blend";
+
+/* Class = "NSTextFieldCell"; title = "Frames per Second:"; ObjectID = "788"; */
+"788.title" = "Secuencias por segundo:";
+
+/* Class = "NSTextFieldCell"; title = "5"; ObjectID = "790"; */
+"790.title" = "5";
+
+/* Class = "NSMenuItem"; title = "Haze"; ObjectID = "792"; */
+"792.title" = "Haze";
+
+/* Class = "NSButtonCell"; title = "Record at Camera Resolution"; ObjectID = "806"; */
+"806.title" = "Expediente en la resolución de la cámara";
+
+/* Class = "NSMenuItem"; title = "Disable Filters"; ObjectID = "808"; */
+"808.title" = "Filtros de la neutralizacións";
+
+/* Class = "NSWindow"; title = "Select Device"; ObjectID = "834"; */
+"834.title" = "Seleccione el dispositivo";
+
+/* Class = "NSTextFieldCell"; title = "Devices:"; ObjectID = "839"; */
+"839.title" = "Devices:";
+
+/* Class = "NSButtonCell"; title = "Select"; ObjectID = "841"; */
+"841.title" = "Select";
+
+/* Class = "NSMenuItem"; title = "Select Device"; ObjectID = "845"; */
+"845.title" = "Seleccione el dispositivo";
+
+/* Class = "NSMenuItem"; title = "Negative"; ObjectID = "847"; */
+"847.title" = "Negative";
+
+/* Class = "NSButtonCell"; title = "-Value"; ObjectID = "850"; */
+"850.title" = "-Valor";
+
+/* Class = "NSMenuItem"; title = "Negative Paradox"; ObjectID = "854"; */
+"854.title" = "Paradoja negativa";
+
+/* Class = "NSMenuItem"; title = "Blank"; ObjectID = "856"; */
+"856.title" = "Espacio en blanco";
+
+/* Class = "NSMenuItem"; title = "Thought"; ObjectID = "858"; */
+"858.title" = "Pensamiento";
+
+/* Class = "NSMenuItem"; title = "Custom"; ObjectID = "861"; */
+"861.title" = "Pensamiento";
+
+/* Class = "NSWindow"; title = "Custom Dialog"; ObjectID = "863"; */
+"863.title" = "Pensamiento Dialog";
+
+/* Class = "NSButtonCell"; title = "Add"; ObjectID = "872"; */
+"872.title" = "Añada";
+
+/* Class = "NSButtonCell"; title = "Remove"; ObjectID = "874"; */
+"874.title" = "quite";
+
+/* Class = "NSTableColumn"; headerCell.title = "Effect"; ObjectID = "880"; */
+"880.headerCell.title" = "Effect";
+
+/* Class = "NSTableColumn"; headerCell.title = "Effect Index"; ObjectID = "881"; */
+"881.headerCell.title" = "Índice del efectox";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "882"; */
+"882.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "883"; */
+"883.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "885"; */
+"885.title" = "Cierre";
+
+/* Class = "NSMenuItem"; title = "Item"; ObjectID = "899"; */
+"899.title" = "Item";
+
+/* Class = "NSMenuItem"; title = "Custom Filter Dialog"; ObjectID = "900"; */
+"900.title" = "Diálogo de encargo del filtro";
+
+/* Class = "NSMenuItem"; title = "Idea MAX"; ObjectID = "902"; */
+"902.title" = "Idea MAX";
+
+/* Class = "NSMenuItem"; title = "Idea MAX Rev"; ObjectID = "907"; */
+"907.title" = "Idea MAX Rev";
+
+/* Class = "NSTextFieldCell"; title = "Record Video Options:"; ObjectID = "911"; */
+"911.title" = "Opciones video de registro:";
+
+/* Class = "NSTextFieldCell"; title = "General settings:"; ObjectID = "913"; */
+"913.title" = "Configuraciones generales:";
+
+/* Class = "NSTextFieldCell"; title = "Press + to Add Image, Then Select below and Press Make Current"; ObjectID = "915"; */
+"915.title" = "Prensa   para añadir imagen, entonces para seleccionar abajo y la prensa haga la corriente";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "920"; */
+"920.title" = "Help";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "921"; */
+"921.title" = "Help";
+
+/* Class = "NSMenuItem"; title = "About 'with Image' Effects"; ObjectID = "925"; */
+"925.title" = "Sobre 'with Image' Effects";
+
+/* Class = "NSMenuItem"; title = "About Effects"; ObjectID = "926"; */
+"926.title" = "Sobre";
+
+/* Class = "NSMenuItem"; title = "Item"; ObjectID = "929"; */
+"929.title" = "Item";
+
+/* Class = "NSMenuItem"; title = "Strobe Effect"; ObjectID = "930"; */
+"930.title" = "Efecto del estroboscópico";
+
+"932.title" = "Prueba de Efectot";
+
+"934.title" = "Efecto perdido";
+
+/* Class = "NSMenuItem"; title = "About LostSideDead"; ObjectID = "936"; */
+"936.title" = "About LostSideDead";
+
+/* Class = "NSTextFieldCell"; title = "Frames:"; ObjectID = "942"; */
+"942.title" = "Frames:";
+
+"944.title" = "ThoughtMode";
+
+/* Class = "NSMenuItem"; title = "Blend with Image #2"; ObjectID = "946"; */
+"946.title" = "Mezcla con imagene #2";
+
+/* Class = "NSMenuItem"; title = "Blend with Image #3"; ObjectID = "948"; */
+"948.title" = "Mezcla con imagene #3";

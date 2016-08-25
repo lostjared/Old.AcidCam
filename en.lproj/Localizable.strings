@@ -1,0 +1,6 @@
+﻿/* about the effects */
+"AboutEffects" = "When a Effect uses a image, it will open up the Select Image dialog. Press the + button to select a image, once it is selected it will added to the drop down list (combo box). When you want to use the image, select in the combo box and press Make Current.";
+
+/* No comment provided by engineer. */
+"AboutInfo" = "Each effect is different however some of them are related. Simply select one from the list, press Record/Snapshot to take images / video. The custom Effect allows you to use multiple effects one after another. To use select a effect in the combo box, then press the Add button. To remove it high light it and press remove. Add multiple effect in different orders to produce different results. Also to set the Translation speed/Second Pass use the Preferences Dialog (found in the menu). Second pass means after the effect it goes through the image and blends the new pixel, with the original pixel. ";
+

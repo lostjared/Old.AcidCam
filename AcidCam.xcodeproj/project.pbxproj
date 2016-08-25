@@ -1,0 +1,430 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		256AC3DA0F4B6AC300CF3369 /* CameraAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 256AC3D90F4B6AC300CF3369 /* CameraAppDelegate.m */; };
+		7F1F08A6160E44C2007F8C19 /* program_str.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7F1F08A4160E44C2007F8C19 /* program_str.strings */; };
+		7F1F08AD160E480A007F8C19 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7F1F08AB160E480A007F8C19 /* Localizable.strings */; };
+		7F1F08B1160E4D61007F8C19 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7F767BB6160E386F009EF360 /* MainMenu.xib */; };
+		7F1F08B2160E4D69007F8C19 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7F1F08AE160E4921007F8C19 /* Localizable.strings */; };
+		7F72F2E6160E1AAD00FBDEB4 /* icon.icns in Resources */ = {isa = PBXBuildFile; fileRef = 7F72F2E5160E1AAD00FBDEB4 /* icon.icns */; };
+		7F767BBA160E386F009EF360 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7F767BB1160E386F009EF360 /* MainMenu.xib */; };
+		7F8B9391138C1F8A003A0C36 /* AppController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F8B9390138C1F8A003A0C36 /* AppController.m */; };
+		7F8B9395138C1FC8003A0C36 /* QTKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F8B9394138C1FC8003A0C36 /* QTKit.framework */; };
+		7F8B9407138C2E45003A0C36 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F8B9406138C2E45003A0C36 /* QuartzCore.framework */; };
+		7F8B940D138C2E51003A0C36 /* Accelerate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F8B940C138C2E51003A0C36 /* Accelerate.framework */; };
+		7F8B942A138C35CF003A0C36 /* OpenGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F8B9429138C35CF003A0C36 /* OpenGL.framework */; };
+		7F9FBF1A13A41B77009819DC /* AFImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F9FBF1913A41B77009819DC /* AFImage.m */; };
+		8D11072D0486CEB800E47090 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; settings = {ATTRIBUTES = (); }; };
+		8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
+		13E42FB307B3F0F600E4EEF1 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = /System/Library/Frameworks/CoreData.framework; sourceTree = "<absolute>"; };
+		256AC3D80F4B6AC300CF3369 /* CameraAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CameraAppDelegate.h; sourceTree = "<group>"; };
+		256AC3D90F4B6AC300CF3369 /* CameraAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CameraAppDelegate.m; sourceTree = "<group>"; };
+		256AC3F00F4B6AF500CF3369 /* AcidCam_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AcidCam_Prefix.pch; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
+		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
+		7F1F08A5160E44C2007F8C19 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = program_str.strings; sourceTree = "<group>"; };
+		7F1F08A9160E45D7007F8C19 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = program_str.strings; sourceTree = "<group>"; };
+		7F1F08AC160E480A007F8C19 /* en */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		7F1F08AF160E4921007F8C19 /* es */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = es; path = Localizable.strings; sourceTree = "<group>"; };
+		7F72F2E5160E1AAD00FBDEB4 /* icon.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = icon.icns; sourceTree = "<group>"; };
+		7F72F2E7160E1AB800FBDEB4 /* AcidCam-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "AcidCam-Info.plist"; sourceTree = "<group>"; };
+		7F767BB0160E386F009EF360 /* en */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = en; path = MainMenu.strings; sourceTree = "<group>"; };
+		7F767BB2160E386F009EF360 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = MainMenu.xib; sourceTree = "<group>"; };
+		7F767BB5160E386F009EF360 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = MainMenu.strings; sourceTree = "<group>"; };
+		7F767BB7160E386F009EF360 /* es */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = es; path = MainMenu.xib; sourceTree = "<group>"; };
+		7F8B938F138C1F8A003A0C36 /* AppController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppController.h; sourceTree = "<group>"; };
+		7F8B9390138C1F8A003A0C36 /* AppController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppController.m; sourceTree = "<group>"; };
+		7F8B9394138C1FC8003A0C36 /* QTKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QTKit.framework; path = System/Library/Frameworks/QTKit.framework; sourceTree = SDKROOT; };
+		7F8B9406138C2E45003A0C36 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		7F8B940C138C2E51003A0C36 /* Accelerate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accelerate.framework; path = System/Library/Frameworks/Accelerate.framework; sourceTree = SDKROOT; };
+		7F8B9429138C35CF003A0C36 /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = System/Library/Frameworks/OpenGL.framework; sourceTree = SDKROOT; };
+		7F9FBF1813A41B77009819DC /* AFImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFImage.h; sourceTree = "<group>"; };
+		7F9FBF1913A41B77009819DC /* AFImage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFImage.m; sourceTree = "<group>"; };
+		8D1107320486CEB800E47090 /* AcidCam.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AcidCam.app; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8D11072E0486CEB800E47090 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */,
+				7F8B9395138C1FC8003A0C36 /* QTKit.framework in Frameworks */,
+				7F8B9407138C2E45003A0C36 /* QuartzCore.framework in Frameworks */,
+				7F8B940D138C2E51003A0C36 /* Accelerate.framework in Frameworks */,
+				7F8B942A138C35CF003A0C36 /* OpenGL.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				7F9FBF1813A41B77009819DC /* AFImage.h */,
+				7F9FBF1913A41B77009819DC /* AFImage.m */,
+				256AC3D80F4B6AC300CF3369 /* CameraAppDelegate.h */,
+				256AC3D90F4B6AC300CF3369 /* CameraAppDelegate.m */,
+				7F8B938F138C1F8A003A0C36 /* AppController.h */,
+				7F8B9390138C1F8A003A0C36 /* AppController.m */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */,
+			);
+			name = "Linked Frameworks";
+			sourceTree = "<group>";
+		};
+		1058C7A2FEA54F0111CA2CBB /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				29B97324FDCFA39411CA2CEA /* AppKit.framework */,
+				13E42FB307B3F0F600E4EEF1 /* CoreData.framework */,
+				29B97325FDCFA39411CA2CEA /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8D1107320486CEB800E47090 /* AcidCam.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* Camera */ = {
+			isa = PBXGroup;
+			children = (
+				7F72F2E7160E1AB800FBDEB4 /* AcidCam-Info.plist */,
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+				7F8B9394138C1FC8003A0C36 /* QTKit.framework */,
+			);
+			name = Camera;
+			sourceTree = "<group>";
+			usesTabs = 0;
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				256AC3F00F4B6AF500CF3369 /* AcidCam_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				7F767BAC160E386F009EF360 /* en.lproj */,
+				7F767BB3160E386F009EF360 /* es.lproj */,
+				7F72F2E5160E1AAD00FBDEB4 /* icon.icns */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */,
+				1058C7A2FEA54F0111CA2CBB /* Other Frameworks */,
+				7F8B9406138C2E45003A0C36 /* QuartzCore.framework */,
+				7F8B940C138C2E51003A0C36 /* Accelerate.framework */,
+				7F8B9429138C35CF003A0C36 /* OpenGL.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		7F767BAC160E386F009EF360 /* en.lproj */ = {
+			isa = PBXGroup;
+			children = (
+				7F1F08AB160E480A007F8C19 /* Localizable.strings */,
+				7F767BAF160E386F009EF360 /* MainMenu.strings */,
+				7F767BB1160E386F009EF360 /* MainMenu.xib */,
+				7F1F08A4160E44C2007F8C19 /* program_str.strings */,
+			);
+			path = en.lproj;
+			sourceTree = "<group>";
+		};
+		7F767BB3160E386F009EF360 /* es.lproj */ = {
+			isa = PBXGroup;
+			children = (
+				7F767BB4160E386F009EF360 /* MainMenu.strings */,
+				7F767BB6160E386F009EF360 /* MainMenu.xib */,
+				7F1F08A8160E45D7007F8C19 /* program_str.strings */,
+				7F1F08AE160E4921007F8C19 /* Localizable.strings */,
+			);
+			path = es.lproj;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8D1107260486CEB800E47090 /* AcidCam */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C01FCF4A08A954540054247B /* Build configuration list for PBXNativeTarget "AcidCam" */;
+			buildPhases = (
+				8D1107290486CEB800E47090 /* Resources */,
+				8D11072C0486CEB800E47090 /* Sources */,
+				8D11072E0486CEB800E47090 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AcidCam;
+			productInstallPath = "$(HOME)/Applications";
+			productName = Camera;
+			productReference = 8D1107320486CEB800E47090 /* AcidCam.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0450;
+			};
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "AcidCam" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+				es,
+				en,
+				Spanish,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* Camera */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8D1107260486CEB800E47090 /* AcidCam */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8D1107290486CEB800E47090 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7F1F08B2160E4D69007F8C19 /* Localizable.strings in Resources */,
+				7F1F08B1160E4D61007F8C19 /* MainMenu.xib in Resources */,
+				7F72F2E6160E1AAD00FBDEB4 /* icon.icns in Resources */,
+				7F767BBA160E386F009EF360 /* MainMenu.xib in Resources */,
+				7F1F08A6160E44C2007F8C19 /* program_str.strings in Resources */,
+				7F1F08AD160E480A007F8C19 /* Localizable.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8D11072C0486CEB800E47090 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072D0486CEB800E47090 /* main.m in Sources */,
+				256AC3DA0F4B6AC300CF3369 /* CameraAppDelegate.m in Sources */,
+				7F8B9391138C1F8A003A0C36 /* AppController.m in Sources */,
+				7F9FBF1A13A41B77009819DC /* AFImage.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		7F1F08A4160E44C2007F8C19 /* program_str.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7F1F08A5160E44C2007F8C19 /* en */,
+			);
+			name = program_str.strings;
+			sourceTree = "<group>";
+		};
+		7F1F08A8160E45D7007F8C19 /* program_str.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7F1F08A9160E45D7007F8C19 /* es */,
+			);
+			name = program_str.strings;
+			sourceTree = "<group>";
+		};
+		7F1F08AB160E480A007F8C19 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7F1F08AC160E480A007F8C19 /* en */,
+			);
+			name = Localizable.strings;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		7F1F08AE160E4921007F8C19 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7F1F08AF160E4921007F8C19 /* es */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+		7F767BAF160E386F009EF360 /* MainMenu.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7F767BB0160E386F009EF360 /* en */,
+			);
+			name = MainMenu.strings;
+			sourceTree = "<group>";
+		};
+		7F767BB1160E386F009EF360 /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7F767BB2160E386F009EF360 /* en */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+		7F767BB4160E386F009EF360 /* MainMenu.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7F767BB5160E386F009EF360 /* es */,
+			);
+			name = MainMenu.strings;
+			sourceTree = "<group>";
+		};
+		7F767BB6160E386F009EF360 /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7F767BB7160E386F009EF360 /* es */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C01FCF4B08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COMBINE_HIDPI_IMAGES = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = AcidCam_Prefix.pch;
+				INFOPLIST_FILE = "AcidCam-Info.plist";
+				INSTALL_PATH = "$(HOME)/Applications";
+				MACOSX_DEPLOYMENT_TARGET = 10.5;
+				PRODUCT_NAME = AcidCam;
+			};
+			name = Debug;
+		};
+		C01FCF4C08A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = AcidCam_Prefix.pch;
+				INFOPLIST_FILE = "AcidCam-Info.plist";
+				INSTALL_PATH = "$(HOME)/Applications";
+				MACOSX_DEPLOYMENT_TARGET = 10.5;
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = AcidCam;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.5;
+				"New Setting" = "";
+				ONLY_ACTIVE_ARCH = NO;
+				SDKROOT = macosx;
+				SHARED_PRECOMPS_DIR = "";
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = "";
+				IBC_PLUGIN_SEARCH_PATHS = "";
+				LIBRARY_SEARCH_PATHS = "";
+				MACOSX_DEPLOYMENT_TARGET = 10.5;
+				ONLY_ACTIVE_ARCH = YES;
+				OTHER_LDFLAGS = "";
+				RUN_CLANG_STATIC_ANALYZER = YES;
+				SDKROOT = macosx;
+				SHARED_PRECOMPS_DIR = "";
+				USER_HEADER_SEARCH_PATHS = "";
+				VALID_ARCHS = "i386 x86_64";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C01FCF4A08A954540054247B /* Build configuration list for PBXNativeTarget "AcidCam" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4B08A954540054247B /* Debug */,
+				C01FCF4C08A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "AcidCam" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
